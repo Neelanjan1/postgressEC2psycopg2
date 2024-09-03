@@ -38,5 +38,4 @@ Write script for create table + write into DB
 2024-09-03 18:58:15.972 UTC [4160] FATAL:  could not load /etc/postgresql/16/main/pg_hba.conf
 2024-09-03 18:58:15.974 UTC [4160] LOG:  database system is shut down
 
-https://medium:
-  com/@pantaanish/setting-up-postgresql-on-an-ec2-instance-a-step-by-step-guide-9be2e3348fdb:
+[https://medium.com/@pantaanish/setting-up-postgresql-on-an-ec2-instance-a-step-by-step-guide-9be2e3348fdb:](https://medium.com/@pantaanish/setting-up-postgresql-on-an-ec2-instance-a-step-by-step-guide-9be2e3348fdb)
